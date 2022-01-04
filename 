@@ -1,0 +1,12 @@
+[33m310147f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: Branch: renamed refs/heads/master to refs/heads/main
+[33m310147f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from 14d0c3eb90519c872ef40ac225017c78b1c52815 to master
+[33m14d0c3e[m HEAD@{3}: checkout: moving from master to 14d0c3e
+[33m310147f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{4}: commit: solo contact
+[33m36fb5ef[m HEAD@{5}: commit: contact y about
+[33m2060d0b[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{6}: commit: Cambiando titulo al app
+[33mcacea69[m HEAD@{7}: commit: se cambio el idioma a español
+[33md5a6327[m HEAD@{8}: commit: modificado el index
+[33mc6fb24c[m HEAD@{9}: commit: actualizacion pag 3
+[33m14d0c3e[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/master
+[33m14d0c3e[m HEAD@{12}: commit: Pagina 3 agregada
+[33m115f33d[m HEAD@{13}: commit (initial): Inicio del repositorio

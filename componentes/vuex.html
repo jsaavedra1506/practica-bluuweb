@@ -23,10 +23,14 @@
         template: //html
         `           
         <div>
-            <h1>Numero: {{ $store.state.numero }}</h1>
+            <h1>Numero: {{ numero }}</h1>
             <hijo></hijo>
         </div>        
-        `
+        `,
+        computed:{
+            ...Vuex.mapState(['numero'])
+        
+    }
     });
 
     Vue.component('hijo', {
